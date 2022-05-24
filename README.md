@@ -15,5 +15,5 @@ Simple JavaScript Learning Course
 - Visual Studio Code
 
 ## References
-link: [Nomad Coders](https://nomadcoders.co/javascript-for-beginners)
+Link: [Nomad Coders](https://nomadcoders.co/javascript-for-beginners)
  
